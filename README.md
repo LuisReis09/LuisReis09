@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**LuisReis09/LuisReis09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Luis Reis, estudande de Ciência da Computação na UFPB.
 
-Here are some ideas to get you started:
+## Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Linguagem C" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Linguagem C++" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Linguagem Java" />
+  <img height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_plain_logo_icon_146454.png" alt="HTML" />
+          
+</div>
