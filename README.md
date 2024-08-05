@@ -1,6 +1,6 @@
 # Olá 👋
 
-Eu sou Luis Reis, estudande de Ciência da Computação na UFPB.
+Eu sou Luis Reis, estudante de Ciência da Computação na UFPB.
 
 ## Linguagens
 
