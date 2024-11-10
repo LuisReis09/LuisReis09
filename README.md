@@ -4,7 +4,7 @@ Eu sou Luis Reis, estudante de Ciência da Computação na UFPB.
 
 ## Linguagens
 
-<img width="46.7%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisReis09&layout=compact&theme=nord&hide_border=true" alt="Luis Reis's most languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisReis09&layout=compact&theme=nord&hide_border=true&cache_seconds=60" alt="Luis Reis's most languages">
 <hr>
 <div>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Linguagem C" />
