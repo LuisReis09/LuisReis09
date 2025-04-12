@@ -8,6 +8,6 @@ Eu sou Luis Reis, estudante de Ciência da Computação na UFPB.
 <hr>
 <div>
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,java,python,c,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,java,python,c,cpp)](https://skillicons.dev)
           
 </div>
