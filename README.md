@@ -16,6 +16,6 @@ Eu sou Luis Reis, estudante de Ciência da Computação na UFPB.
 
   <h1>Technologies</h1>
 
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,flask,figma,unity)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,flask,figma)](https://skillicons.dev)
           
 </div>
